@@ -11,7 +11,7 @@ Soy un apasionado desarrollador web con especialización en el área de Front En
 - **Tecnologías favoritas**: 
   - **Frameworks y librerías**: <img align="center" width="60px" src="https://skillicons.dev/icons?i=angular,vue,tailwind,bootstrap"/>
   - **Herramientas de desarrollo**: <img align="center" width="60px" src="https://skillicons.dev/icons?i=vscode,figma,postman,ai"/>
-  - **Backend y bases de datos**: <img align="center" width="90px" src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring,firebase,mysql"/>
+  - **Backend y bases de datos**: <img align="center" width="105px" src="https://skillicons.dev/icons?i=nodejs,express,sequelize,laravel,spring,firebase,mysql"/>
 
 - **Intereses**: 
   - Diseño de interfaces de usuario (UI/UX)
